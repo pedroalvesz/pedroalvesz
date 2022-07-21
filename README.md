@@ -1,12 +1,12 @@
     ##  Hello World 👋 I´m Pedro
 #
-<img align="right" width="60%" src="https://media.giphy.com/media/Gs9yXEudNmMomZE6ME/giphy.gif" alt="Furia HEN1 dancing" />
+<img align="right" width="50%" src="https://media.giphy.com/media/Gs9yXEudNmMomZE6ME/giphy.gif" alt="Karrigan" />
 
 ### 💬 About Me</b>
 
 - 🛠️I’m a Software Engineer enthusiastic.
 
-- 📚 Currently focusing on learn Web and Mobile development.
+- 📚 Currently focusing on learn Mobile development.
 
 <br/>
 <br/>
