@@ -6,7 +6,7 @@
 
 - 🛠️I’m a Software Engineer enthusiastic.
 
-- 📚 Currently focusing on learn Mobile development, but not only.
+- 📚 Currently focusing on Mobile and Web development.
 
 <br/>
 <br/>
